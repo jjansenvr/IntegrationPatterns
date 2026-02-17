@@ -1,11 +1,10 @@
 # Integration Patterns:  
-{#integration-patterns}
 
-Batch & Message
+## Batch & Message
 
 These patterns describe how data is transferred between systems when working with **batches (collections of records)** versus **messages (single events/records)**.
 
-Integration Patterns:
+**Integration Patterns:**
 
 [1. Batch → Batch ](#batch-batch)
 
@@ -20,6 +19,9 @@ Integration Patterns:
 [6. Message → Batch](#message-batch)
 
 [7. Message → Batches ](#message-batches)
+
+
+<br/>
 
 [Processing Actions across all patterns](#processing-actions-across-all-patterns)
 
