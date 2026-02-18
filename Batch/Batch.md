@@ -2,7 +2,8 @@
 
 ## Batch & Message
 
-These patterns describe how data is transferred between systems when working with **batches (collections of records)** versus **messages (single events/records)**.
+These patterns describe how data is transferred between systems when working with 
+**batches (collections of records)** versus **messages (single events/records)**.
 
 **Integration Patterns:**
 
