@@ -49,3 +49,5 @@ Logs often represent a batch of events.
 - Apache Avro (.avro) – compact binary batch record format
 - Apache ORC (.orc) – big-data optimized
 
+## Zipped messages
+a zip file containing a batch of xml message
