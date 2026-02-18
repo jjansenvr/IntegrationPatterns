@@ -23,3 +23,4 @@ Aggregate items together until criteria are met:
 - Time window
 - Record count
 - Business trigger
+
