@@ -23,7 +23,7 @@ These patterns describe how data is transferred between systems when working wit
 
 <br/>
 
-[Processing Actions across all patterns](#processing-actions-across-all-patterns)
+[Processing Actions across all patterns](./processing-actions.md)
 
 
 
