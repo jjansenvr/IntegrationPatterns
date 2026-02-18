@@ -6,19 +6,19 @@ These patterns describe how data is transferred between systems when working wit
 
 **Integration Patterns:**
 
-[1. Batch → Batch ](#batch-batch)
+[Batch → Batch ](#batch-batch)
 
-[2. Batch → Batches](#batch-batches)
+[Batch → Batches](#batch-batches)
 
-[3. Batch → Message ](#_Toc222255689)
+[Batch → Message ](#_Toc222255689)
 
-[4. Batches → Batch](#batches-batch)
+[Batches → Batch](#batches-batch)
 
-[5. Batches → Message](#batches-message)
+[Batches → Message](#batches-message)
 
-[6. Message → Batch](#message-batch)
+[Message → Batch](#message-batch)
 
-[7. Message → Batches ](#message-batches)
+[Message → Batches ](#message-batches)
 
 
 <br/>
