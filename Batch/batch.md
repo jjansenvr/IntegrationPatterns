@@ -28,8 +28,7 @@ These patterns describe how data is transferred between systems when working wit
 
 [Processing Actions across all patterns](./processing-actions.md)
 
-[Possible input types] (./input-types.md)
-
+[Possible input types](./input-types.md)
 
 
 
